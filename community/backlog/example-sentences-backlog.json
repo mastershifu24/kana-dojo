@@ -582,7 +582,7 @@
     "jlpt": "N4",
     "id": 65,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "もし時間があれば、一緒に復習しませんか。",
@@ -591,7 +591,7 @@
     "jlpt": "N3",
     "id": 66,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "提出期限までにレポートを仕上げなければならない。",
@@ -609,7 +609,7 @@
     "jlpt": "N3",
     "id": 68,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "日本のニュースを毎日読むようにしています。",
@@ -618,7 +618,7 @@
     "jlpt": "N3",
     "id": 69,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "分からない単語は辞書で調べてから質問してください。",
@@ -626,7 +626,7 @@
     "english": "Please look up unknown words before asking.",
     "jlpt": "N4",
     "id": 70,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
